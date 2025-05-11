@@ -11,13 +11,13 @@ import { SITE } from "@/config";
 export const SOCIALS = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/liuziyee1994",
     linkTitle: ` ${SITE.title} on Github`,
     icon: IconGitHub,
   },
-  {
+  /*{
     name: "X",
-    href: "https://x.com/username",
+    href: "https://x.com/liuziyee",
     linkTitle: `${SITE.title} on X`,
     icon: IconBrandX,
   },
@@ -26,10 +26,10 @@ export const SOCIALS = [
     href: "https://www.linkedin.com/in/username/",
     linkTitle: `${SITE.title} on LinkedIn`,
     icon: IconLinkedin,
-  },
+  },*/
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "mailto:liuziye1994@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
     icon: IconMail,
   },
