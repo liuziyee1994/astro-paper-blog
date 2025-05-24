@@ -7,7 +7,7 @@ draft: false
 tags: [English, TV series]
 description: ''
 ---
-s
+
 ## E4
 1. But the treatments we have **at our disposal** can be very effective.<br>
 `disposal：清除`<br>
@@ -26,7 +26,7 @@ s
 `kidney：肾脏`<br>
 `bladder：膀胱`<br>
 `irritate：刺激`
-6. Where you look us in the eye and you plead ignorance, and you **play on** our emotions.<br>
+6. Where you look us in the eye and you **plead ignorance**, and you **play on** our emotions.<br>
 `plead ignorance：to say that you do not know about something`<br>
 `play on：利用`
 7. There's **financing**, there's **installment** plans.<br>
