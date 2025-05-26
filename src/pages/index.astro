@@ -10,6 +10,7 @@ import Hr from "@/components/Hr.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
 import IconRss from "@/assets/icons/IconRss.svg";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
+import IconEllipsis from "@/assets/icons/IconEllipsis.svg";
 import { SITE } from "@/config";
 import { SOCIALS } from "@/constants";
 
@@ -93,13 +94,12 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
                 index < SITE.postPerIndex && <Card variant="h3" {...data} />
             )}
           </ul>
-        </section>
-      )
+        </section>      )
     }
 
     <div class="my-8 text-center">
       <LinkButton href="/posts/">
-        <IconArrowRight class="inline-block" />
+        <IconEllipsis class="inline-block" />
       </LinkButton>
     </div>
   </main>
