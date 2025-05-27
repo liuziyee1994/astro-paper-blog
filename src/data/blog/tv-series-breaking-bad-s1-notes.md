@@ -35,3 +35,61 @@ description: ''
 8. You **up for** making some fat **stacks**?<br>
 `up/down for something：乐意做某事`<br>
 `stack：堆`
+9. Every time you and me on a **stakeout** together. Your breath could knock a **buzzard** off a shit **wagon**.<br>
+`stakeout：监视`<br>
+`buzzard： 秃鹰`<br>
+`wagon：四轮运货马车`
+10. which is smarter than your **average** **cheese-eater**. I **turned him out** at the street-level.<br>
+`average：普通的`<br>
+`cheese eater：告密者，同informer，snitch`<br>
+`turn someone out：教唆或引诱某人`
+11. It turns out he's missing, **presumed** dead. Found his car out in the **boonies**.Last guy he **ratted** out was none other than his cousin.<br>
+`presume：假定，推测`<br>
+`boonies：郊区`<br>
+`rat：告发`
+12. I mean our chemist was **blown away**.<br>
+`blow away：彻底击败`
+13. We're thinking this was cooked right here, in the land of **enchantment**.<br>
+`enchant：使陶醉`<br>
+`enchantment：魅力`
+14. Meantime, our guys **swabbed** the filter element.<br>
+`swab：棉签，擦洗`
+15. I'm thinking Albuquerque just might have a new **kingpin**.<br>
+`kingpin：关键人物`
+16. Is this low-fat **mayonnaise** in the **cole** **slaw**?<br>
+`mayonnaise：蛋黄酱`<br>
+`cole：卷心菜`<br>
+`slaw：卷心菜沙拉`
+17. I kept **bugging** her for a date. She kept saying no. What, did I ask you like 50 times? It was before they **tightened** the **stalking** laws.<br>
+`bug：使烦恼`<br>
+`tighten：使更严格`<br>
+`stalk：跟踪`
+18. Fourteen across, seven-letter word for **whatchamacallit**.<br>
+`whatchamacallit：叫什么来着`
+19. I don't know, some kind of **ventilation** **hood** or something.<br>
+`ventilate：使通风`<br>
+`hood：面罩`
+20. I think the house is just **settling**. It's been **caving in** left and right.<br>
+`settle：下沉`<br>
+`cave in：坍塌`
+21. Could be, yeah. You know, **from time to time**.<br>
+`from time to time：时不时，偶尔`
+22. I've been thinking lately I'll just **lay off** of it for a while. Cause lately it's been making me **paranoid**.<br>
+`lay off：停止做某事`<br>
+`paranoid：多疑的，恐惧的`
+23. What's that we're putting on a credit card? It's just a **deposit** kind of thing.<br>
+`deposit：保证金，存款`
+24. That's how **ecstatic** they'd be.<br>
+`ecstatic：狂喜的`
+25. I would like a cashier's **check** in the full amount. **Made out** to oncology partners of New Mexico, please.<br>
+`check：支票，同cheque`<br>
+`make out：When you make out a cheque, receipt, or order form, you write all the necessary information on it.`
+26. When did you get this? Last may at the year-end **assembly**.<br>
+`assembly：什么什么会`
+27. I'm done giving out **freebies**. You want charity, go ask the **salvation** army.<br>
+`freebie：免费的东西`<br>
+`salvation：拯救，解救`
+28. oh, we can't let that scumbag **warp** the mind of our favorite son.<br>
+`warp：施加坏的影响`
+29. **Making** mad **inroads** with the business community.<br>
+`make inroads：施加影响`
