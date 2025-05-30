@@ -25,7 +25,7 @@ description: ''
 5. Possible **kidney** or **bladder** **irritation**.<br>
 `kidney：肾脏`<br>
 `bladder：膀胱`<br>
-`irritate：刺激`
+`irritate：刺激，激怒`
 6. Where you look us in the eye and you **plead ignorance**, and you **play on** our emotions.<br>
 `plead ignorance：to say that you do not know about something`<br>
 `play on：利用`
@@ -72,24 +72,34 @@ description: ''
 20. I think the house is just **settling**. It's been **caving in** left and right.<br>
 `settle：下沉`<br>
 `cave in：坍塌`
-21. Could be, yeah. You know, **from time to time**.<br>
-`from time to time：时不时，偶尔`
-22. I've been thinking lately I'll just **lay off** of it for a while. Cause lately it's been making me **paranoid**.<br>
+21. I've been thinking lately I'll just **lay off** of it for a while. Cause lately it's been making me **paranoid**.<br>
 `lay off：停止做某事`<br>
 `paranoid：多疑的，恐惧的`
-23. What's that we're putting on a credit card? It's just a **deposit** kind of thing.<br>
+22. What's that we're putting on a credit card? It's just a **deposit** kind of thing.<br>
 `deposit：保证金，存款`
-24. That's how **ecstatic** they'd be.<br>
+23. That's how **ecstatic** they'd be.<br>
 `ecstatic：狂喜的`
-25. I would like a cashier's **check** in the full amount. **Made out** to oncology partners of New Mexico, please.<br>
+24. I would like a cashier's **check** in the full amount. **Made out** to oncology partners of New Mexico, please.<br>
 `check：支票，同cheque`<br>
+`full amount：全额`<br>
 `make out：When you make out a cheque, receipt, or order form, you write all the necessary information on it.`
-26. When did you get this? Last may at the year-end **assembly**.<br>
+25. When did you get this? Last may at the year-end **assembly**.<br>
 `assembly：什么什么会`
-27. I'm done giving out **freebies**. You want charity, go ask the **salvation** army.<br>
+26. I'm done giving out **freebies**. You want charity, go ask the **salvation** army.<br>
 `freebie：免费的东西`<br>
 `salvation：拯救，解救`
-28. oh, we can't let that scumbag **warp** the mind of our favorite son.<br>
+27. oh, we can't let that scumbag **warp** the mind of our favorite son.<br>
 `warp：施加坏的影响`
-29. **Making** mad **inroads** with the business community.<br>
+28. **Making** mad **inroads** with the business community.<br>
 `make inroads：施加影响`
+29. I mean, Marie really **came through for** us.<br>
+`come through for someone：to do something for someone in a supportive way.`
+30. cause I could seriously go for a bowl you know? **Take the edge off**.<br>
+`take the edge off something：to make something weaker or less severe`
+31. And once I **caught on** to that, I would do crossword puzzles while I ate my **grilled** cheese sandwich.<br>
+`catch on：understand`
+`grill：烤架，烧烤`
+32. **From here on out**, I mean, things are gonna...<br>
+`from here on out：从现在起`
+33. Don't get **hung up** on money here.<br>
+`hung up：thinking or worrying too much about the person or thing`

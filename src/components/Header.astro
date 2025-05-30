@@ -78,11 +78,11 @@ const isActive = (path: string) => {
               标签
             </a>
           </li>
-          <li class="col-span-2">
+          <!--<li class="col-span-2">
             <a href="/about" class:list={{ "active-nav": isActive("/about") }}>
               关于
             </a>
-          </li>
+          </li>-->
           {
             SITE.showArchives && (
               <li class="col-span-2">
@@ -103,20 +103,6 @@ const isActive = (path: string) => {
               </li>
             )
           }
-          <li class="col-span-1 flex items-center justify-center">
-            <LinkButton
-              href="/search"
-              class:list={[
-                "focus-outline flex p-3 sm:p-1",
-                { "[&>svg]:stroke-accent": isActive("/search") },
-              ]}
-              ariaLabel="search"
-              title="Search"
-            >
-              <IconSearch />
-              <span class="sr-only">Search</span>
-            </LinkButton>
-          </li>
           {
             SITE.lightAndDarkMode && (
               <li class="col-span-1 flex items-center justify-center">
