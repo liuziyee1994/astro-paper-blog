@@ -11,6 +11,7 @@ import getSortedPosts from "@/utils/getSortedPosts";
 import IconRss from "@/assets/icons/IconRss.svg";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import IconEllipsis from "@/assets/icons/IconEllipsis.svg";
+import IconCircleArrowRight from "@/assets/icons/IconCircleArrowRight.svg";
 import { SITE } from "@/config";
 import { SOCIALS } from "@/constants";
 
@@ -87,7 +88,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
     {
       recentPosts.length > 0 && (
         <section id="recent-posts" class="pt-12 pb-6">
-          <h2 class="text-2xl font-semibold tracking-wide">最近</h2>
+          <h2 class="text-2xl font-semibold tracking-wide">近期投稿</h2>
           <ul>
             {recentPosts.map(
               (data, index) =>
@@ -99,7 +100,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 
     <div class="my-8 text-center">
       <LinkButton href="/posts/">
-        <IconEllipsis class="inline-block" />
+        <IconCircleArrowRight class="inline-block" />
       </LinkButton>
     </div>
   </main>

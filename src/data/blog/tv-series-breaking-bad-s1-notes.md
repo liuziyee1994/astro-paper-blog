@@ -27,7 +27,7 @@ description: ''
 `bladder：膀胱`<br>
 `irritate：刺激，激怒`
 6. Where you look us in the eye and you **plead ignorance**, and you **play on** our emotions.<br>
-`plead ignorance：to say that you do not know about something`<br>
+`plead ignorance：to say that one knows nothing about something`<br>
 `play on：利用`
 7. There's **financing**, there's **installment** plans.<br>
 `finance：贷款`<br>
@@ -97,9 +97,35 @@ description: ''
 30. cause I could seriously go for a bowl you know? **Take the edge off**.<br>
 `take the edge off something：to make something weaker or less severe`
 31. And once I **caught on** to that, I would do crossword puzzles while I ate my **grilled** cheese sandwich.<br>
-`catch on：understand`
+`catch on：understand`<br>
 `grill：烤架，烧烤`
 32. **From here on out**, I mean, things are gonna...<br>
 `from here on out：从现在起`
 33. Don't get **hung up** on money here.<br>
 `hung up：thinking or worrying too much about the person or thing`
+34. You wearing a **wire**? You **setting** me **up**?<br>
+`wire：窃听器`<br>
+`set up：陷害`
+35. **Touch base**? Yeah, you know... What you call... A **debrief**?<br>
+`touch base：communicate with someone`<br>
+`debrief：汇报`
+36. Which means it's **spread** from the lung to the **lymph** nodes.<br>
+`spread：扩散，传播`<br>
+`lymph：淋巴`
+37. It prolonged patients' lives and even resulted in **remission**.<br>
+`remission：缓解`
+38. Thanks for not **telling on** me. You think I could have it back? It's **skunk** **weed** anyway.<br>
+`tell on：告发`<br>
+`skunk：臭鼬`<br>
+`weed：烟草，大麻`
+39. **That's not going to fly** this time. How many chances have we given you?<br>
+`that's not going to fly：that's not acceptable or that's not going to happen`
+40. You may find yourself **unusually** **fatigued**, not much energy.<br>
+`unusually：特别地，不同寻常地`<br>
+`fatigue：疲劳`
+41. You may lose weight due to reduced appetite and certain **intestinal** issues. Muscle aches and pains, **gums** get sore and bleed. And, of course, there's the possibility of **nausea**.<br>
+`intestine：肠`<br>
+`gum：牙龈，口香糖`<br>
+`sore：疼痛的`<br>
+`nausea：恶心`
+

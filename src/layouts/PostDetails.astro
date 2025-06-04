@@ -12,6 +12,10 @@ import { getPath } from "@/utils/getPath";
 import { slugifyStr } from "@/utils/slugify";
 import IconChevronLeft from "@/assets/icons/IconChevronLeft.svg";
 import IconChevronRight from "@/assets/icons/IconChevronRight.svg";
+import IconArrowUpTo from "@/assets/icons/IconArrowUpTo.svg";
+import IconChevronsUp from "@/assets/icons/IconChevronsUp.svg";
+import IconArrowBigLeft from "@/assets/icons/IconArrowBigLeft.svg";
+import IconArrowBigRight from "@/assets/icons/IconArrowBigRight.svg";
 import { SITE } from "@/config";
 
 export interface Props {
@@ -122,8 +126,7 @@ const nextPost =
         id="back-to-top"
         class="focus-outline py-1 whitespace-nowrap hover:opacity-75"
       >
-        <IconChevronLeft class="inline-block rotate-90" />
-        <span>Back to Top</span>
+        <IconChevronsUp class="inline-block" />
       </button>
     </div>
 
@@ -135,11 +138,10 @@ const nextPost =
         prevPost && (
           <a
             href={`/posts/${prevPost.slug}`}
-            class="flex w-full gap-1 hover:opacity-75"
+            class="flex items-center w-full gap-1 hover:opacity-75"
           >
-            <IconChevronLeft class="inline-block flex-none" />
+            <IconArrowBigLeft class="inline-block flex-none" />
             <div>
-              <span>Previous Post</span>
               <div class="text-sm text-accent/85">{prevPost.title}</div>
             </div>
           </a>
@@ -149,13 +151,12 @@ const nextPost =
         nextPost && (
           <a
             href={`/posts/${nextPost.slug}`}
-            class="flex w-full justify-end gap-1 text-right hover:opacity-75 sm:col-start-2"
+            class="flex items-center w-full justify-end gap-1 text-right hover:opacity-75 sm:col-start-2"
           >
             <div>
-              <span>Next Post</span>
               <div class="text-sm text-accent/85">{nextPost.title}</div>
             </div>
-            <IconChevronRight class="inline-block flex-none" />
+            <IconArrowBigRight class="inline-block flex-none" />
           </a>
         )
       }
