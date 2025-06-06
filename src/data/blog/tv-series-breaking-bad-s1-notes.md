@@ -129,3 +129,24 @@ description: ''
 `sore：疼痛的`<br>
 `nausea：恶心`
 
+## E5
+1. I mean, technically it says **curriculum vitae**, which I think is more professional, but, you know, same thing **pretty much**.<br>
+`curriculum vitae：简历`<br>
+`pretty much：几乎，差不多`
+2. I really feel I could be a major asset to your sales **force**.<br>
+`force：a group of people`
+3. But our agents need to be **licensed** , have at least two years on-the-job experience.<br>
+`license：许可，执照`
+4. But I have a solid background in sales. I'm pretty much a **self-starter**.<br>
+`self-starter：有主动性或积极性的人`
+5. why would you want to do this lame ass job anyway?<br>
+`lame：无聊的，差劲的`
+6. Because I'm on probation. Gotta prove to the man I'm **rehabilitated**.<br>
+`probation：缓刑，试用期`<br>
+`rehabilitate：康复，恢复正常生活，恢复名誉`
+7. Anyway, pseudo's getting harder and harder to come by.<br>
+`pseudo：假的，伪装的，假冒者`<br>
+`come by：1.to get something 2.to pay a visit`
+
+
+
