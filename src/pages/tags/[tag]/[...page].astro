@@ -31,10 +31,10 @@ const { tag } = params;
 const { page, tagName } = Astro.props;
 ---
 
-<Layout title={`Tag: ${tagName} | ${SITE.title}`}>
+<Layout title={`标签: ${tagName} | ${SITE.title}`}>
   <Header />
   <Main
-    pageTitle={[`Tag:`, `${tagName}`]}
+    pageTitle={[`标签:`, `${tagName}`]}
     titleTransition={tag}
     pageDesc={`All the articles with the tag "${tagName}".`}
   >
